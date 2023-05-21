@@ -17,7 +17,7 @@
 
 ### Clonar o repositorio:
 
-`git clone https://github.com/nome-usuario/nome-projeto.git`
+`https://github.com/rebecabrandao1/mulheres-conectadas.git`
 
 ### Instalar dependências
 
